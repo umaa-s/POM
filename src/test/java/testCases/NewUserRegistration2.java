@@ -13,7 +13,7 @@ public class NewUserRegistration2 extends ProjectWrappers{
 		TestCaseName = "NewUserRegistration";
 		TestCaseDesc="NewUserRegistration in irctc page";
 		Category="Smoke";
-		iterationName="One";
+		iterationName="Two";
 	}
 	
 	@Test

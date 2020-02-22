@@ -5,3 +5,4 @@ Reports.html
 screenshots/*
 target/*
 test-output/*
+/target/
