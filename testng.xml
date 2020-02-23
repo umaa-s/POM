@@ -8,6 +8,7 @@
   </test> <!-- Test -->
   
   <test thread-count="5" name="Test3">
+
     <classes>
       <class name="testCases.NewUserRegistration"/>
     </classes>
